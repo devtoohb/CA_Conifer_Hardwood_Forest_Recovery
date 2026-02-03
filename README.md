@@ -5,7 +5,9 @@ Geophysical Research, Biogeosciences)
 
 Full rf-EVT 30m CA-wide rasters and data to run code in repo available at https://zenodo.org/records/14919626
 
-*Exercise caution if using the finer EVT classes for these rasters as there are many classes throughout the state, the more granular the classification accuracy is expected to be lower. I strongly suggest using the EVT Phys or other coarser groupings instead, LANDFIRE EVT crosswalk table in zenodo repo.* 
+*Exercise caution if using the finer EVT classes for these rasters as there are many classes throughout the state*
+
+*I strongly suggest using the EVT Phys or other coarser groupings instead, LANDFIRE EVT crosswalk table to go from EVT -> EVT Phys (or other crosswalks LANDFIRE provides) in linked zenodo repo.* 
 
 
 
